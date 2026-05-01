@@ -30,8 +30,9 @@ Right now I'm exploring **machine learning**, **full-stack web development**, an
 
 ## Currently working toward
 
-- Publishing a first research paper in ML or quantum computing
-- Building clean, purposeful full-stack applications
+- Research intern at CNI, VIT Chennai — working on Neuro AI / Quantum ML,
+  in collaboration with QNeuro and SUNY Binghamton (May – July 2026)
+- Targeting publication in an international journal by end of internship
 - Consistent DSA practice alongside creative side projects
 - Developing a personal workflow that doesn't sacrifice depth for speed
 
