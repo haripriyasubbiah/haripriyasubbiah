@@ -38,6 +38,5 @@ Right now I'm exploring **machine learning**, **full-stack web development**, an
 
 ---
 
-*"The best ideas don't always shout. I listen anyway."*
 
 VIT Chennai · B.Tech CSE · CGPA 9.10 · 2024–2028
